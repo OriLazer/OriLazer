@@ -37,13 +37,13 @@ Below are some of the projects I'm most proud of. Feel free to explore, fork, an
 ### **1. Scalable E-Commerce Platform**
 Full-Stack Development, Microservices Architecture, AWS, Docker, Kubernetes
 
-Repository: https://github.com/OriLazer/oricent
+**Repository:** https://github.com/OriLazer/oricent
 
-Description:
+**Description:**
 
 Developed a scalable e-commerce platform capable of handling thousands of concurrent users. The platform is built using a microservices architecture, with services containerized using Docker and orchestrated with Kubernetes. Integrated payment processing, user authentication, and a recommendation engine using AI/ML models.
 
-Key Features:
+**Key Features:**
 - **Microservices**: Designed services for product catalog, user management, and order processing.
 - **Cloud Deployment**: Deployed the application on AWS using Kubernetes and Terraform for infrastructure as code.
 - **AI/ML Integration**: Implemented a recommendation system using collaborative filtering algorithms.
