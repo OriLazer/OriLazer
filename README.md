@@ -34,23 +34,20 @@ I'm a passionate **Senior Software Engineer** with over 7+ years of experience i
 ### 🛠️ Projects & Contributions
 Below are some of the projects I'm most proud of. Feel free to explore, fork, and contribute!
 
-[**1. Scalable E-Commerce Platform**]
+### **1. Scalable E-Commerce Platform**
 Full-Stack Development, Microservices Architecture, AWS, Docker, Kubernetes
-Repository: [Link to repository]
+
+Repository: 
+
 Description:
 Developed a scalable e-commerce platform capable of handling thousands of concurrent users. The platform is built using a microservices architecture, with services containerized using Docker and orchestrated with Kubernetes. Integrated payment processing, user authentication, and a recommendation engine using AI/ML models.
+
 Key Features:
-•	Microservices: Designed services for product catalog, user management, and order processing.
-•	Cloud Deployment: Deployed the application on AWS using Kubernetes and Terraform for infrastructure as code.
-•	AI/ML Integration: Implemented a recommendation system using collaborative filtering algorithms.
-Skills Demonstrated:
-•	Full-stack development with React, Node.js, and MongoDB.
-•	Advanced knowledge of Docker, Kubernetes, and AWS.
-•	AI/ML model integration for real-time recommendations.
-
-[**Project Name**](link to repository)  
-_A brief description of the project, its purpose, and key technologies used._
-
-[**Project Name**](link to repository)  
-_A brief description of the project, its purpose, and key technologies used._
+- **Microservices**: Designed services for product catalog, user management, and order processing.
+- **Cloud Deployment**: Deployed the application on AWS using Kubernetes and Terraform for infrastructure as code.
+- **AI/ML Integration**: Implemented a recommendation system using collaborative filtering algorithms.
+**Skills Demonstrated:**
+- **Full-stack development** with React, Node.js, and MongoDB.
+- **Advanced knowledge** of Docker, Kubernetes, and AWS.
+- **AI/ML model integration** for real-time recommendations.
 
